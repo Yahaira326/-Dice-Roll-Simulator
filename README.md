@@ -1,2 +1,2 @@
-# -Dice-Roll-Simulator
-the Dice Roll Simulator
+# Dice-Roll-Simulator
+The Dice Roll Simulator
