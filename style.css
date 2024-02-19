@@ -3,19 +3,16 @@ body {
   text-align: center;
   margin: 0;
 }
-
 h1 {
   font-size: 3rem;
   margin-top: 2rem;
 }
-
 .dice {
   font-size: 7rem;
   margin: 5px;
   animation-duration: 1s;
   animation-fill-mode: forwards;
 }
-
 .roll-animation {
   animation-name: roll;
 }
@@ -29,7 +26,6 @@ h1 {
     transform: rotateY(720deg) rotateX(720deg);
   }
 }
-
 button {
   background-color: #47a5c4;
   color: white;
@@ -51,7 +47,6 @@ ul {
   max-width: 600px;
   margin: 2rem auto;
 }
-
 li {
   font-size: 1.5rem;
   padding: 0.5rem;
